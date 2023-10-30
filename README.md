@@ -1,5 +1,5 @@
-````markdown
-# Project Name
+
+# Fetching external data
 
 ## Overview
 
@@ -16,9 +16,9 @@ To use this project, ensure you have Node.js installed on your system. You'll al
 2. **Next.js**: To install Next.js, run the following command in your terminal:
 
    ```bash
-   npm install next
+   npm create-next-app my-app-name
    ```
-````
+
 
 3. **Gray-matter**: You'll also need to install the `gray-matter` package:
 
@@ -58,25 +58,11 @@ console.log("Content:", content);
 
 Please adjust this code to fit your project's structure and requirements within a Next.js application.
 
-## Contributing
-
-If you encounter any issues or have suggestions for improvements, feel free to open an issue or create a pull request in this repository.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Acknowledgements
-
-Special thanks to the creators of `gray-matter` and the Next.js team for providing tools and frameworks to simplify data extraction and pre-rendering.
-
-## Additional Notes
-
-Include any additional information or notes here that might be important for users to understand the project better.
-
----
-
-This README provides a basic structure for the project documentation. Please ensure that the "License" section refers to the actual MIT License and that other sections accurately represent the specifics of your project and its requirements.
 
 ```
 
