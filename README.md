@@ -64,7 +64,3 @@ Please adjust this code to fit your project's structure and requirements within 
 This project is licensed under the [MIT License](LICENSE.md).
 
 
-```
-
-This combined Markdown document includes information about the project, prerequisites, installation steps, usage guidance, code examples, contribution details, license information, acknowledgements, and space for additional notes. Customize this document further according to the specific details and requirements of your project.
-```
